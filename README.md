@@ -1,4 +1,4 @@
-# awesome-pledge [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# awesome-microservices [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A collaborative curated list of amazingly awesome microservice resources and other awesome things; based on the [Sequoia MicroServices Ecosystem](https://www.sequoiacap.com/article/build-us-microservices/).
 
 ## Table of Contents
