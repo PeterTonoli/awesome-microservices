@@ -4,6 +4,7 @@ A collaborative curated list of amazingly awesome microservice resources and oth
 ## Table of Contents
 - [Development Environments](#development)
 - [Source Code Management](#source)
+- [Registration](#Registration)
 
 ## Development Environments
 - [Active State](http://www.activestate.com/)
@@ -15,6 +16,10 @@ A collaborative curated list of amazingly awesome microservice resources and oth
 - [GitHub](https://github.com)
 - [GitLab](https://gitlab.com)
 - [Bitbucket](https://bitbucket.org/)
+
+## Registration
+- [Apache Zookeeper](https://zookeeper.apache.org/)
+- [Coreos](https://coreos.com/)
 
 ## Credits
  - [Matt Miller's](https://twitter.com/mcmiller00/status/708289773996118016) Sequoia's view of the microservices ecosystem             
